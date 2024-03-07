@@ -5,7 +5,7 @@ configuration files. The JSON configuration files should be located in
 the [`deploy`](../src/main/deploy) directory. You can also create the Configuration objects manually
 and instantiate your Swerve Drive that way.
 
-## How to create a SwerveDrive using JSON.
+## How to create a SwerveDrive using JSON
 
 This example program creates
 the [`SwerveDrive`](../src/main/java/frc/robot/subsystems/swervedrive/swervelib/SwerveDrive.java)
